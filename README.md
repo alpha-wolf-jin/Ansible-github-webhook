@@ -5,7 +5,7 @@ https://docs.ansible.com/automation-controller/latest/html/userguide/job_templat
 
 ## webhokk setting on Ansible Controller for "Hello World" job template
 
-**Enable Webhook**: Turns on the ability to interface with a predefined SCM system web service that is used to launch a job template. Currently supported SCM systems are `GitHub` and `GitLab`.
+**Enable Webhook**: Turns on the ability to interface with a predefined SCM system web service that is used to launch a job template. **Currently supported SCM systems are `GitHub` and `GitLab`.**
 
 You’ll land in the Master realm by default.
 ![SSO](images/job-template-webhook-01.png)
