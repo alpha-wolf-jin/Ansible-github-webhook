@@ -22,7 +22,7 @@ ZvqkzqvMtzNIBCdqcfCQlVYCdQmvRBos8fmeuStRlBwUyrWojG
 
 
 
-## webhokk setting on gitHub
+## Webhook setting on GitHub
 
 
 You’ll land in the Master realm by default.
@@ -43,3 +43,6 @@ application/json
 ZvqkzqvMtzNIBCdqcfCQlVYCdQmvRBos8fmeuStRlBwUyrWojG
 ```
 
+## Webhook trigger status
+You’ll land in the Master realm by default.
+![SSO](images/job-template-webhook-03.png)
